@@ -1823,7 +1823,7 @@ while x==1:
         print" "
         import time
         time.sleep(3)
-        print "Sagith Gupta: THIS IS THE END OF YOU! ARGHHH!"
+        print "Kuta Raja: THIS IS THE END OF YOU! ARGHHH!"
 
         #Delay and display storyline
         import time
@@ -1846,7 +1846,7 @@ while x==1:
         #Delay and display storyline
         import time
         time.sleep(4)
-        print name + ", you think you are dead, but once you open your eyes, you see Sagith wailing on the ground holding his arm."
+        print name + ", you think you are dead, but once you open your eyes, you see Kuta Raja wailing on the ground holding his arm."
         print" "
 
         #Delay and display storyline
@@ -1862,7 +1862,7 @@ while x==1:
         #Delay and display storyline
         import time
         time.sleep(3)
-        print name + ", you take the golden key from Sagith's pocket and kill him afterwards using your gun!"
+        print name + ", you take the golden key from Kuta Raja's pocket and kill him afterwards using your gun!"
         print" "
         totalPoints=int(totalPoints)
         totalPoints=totalPoints+2
@@ -1885,7 +1885,7 @@ while x==1:
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "He tells you that Sagith caged him inside Pirate Cove, but thanks to " + girl + ", he was able to be set free!"
+        print "He tells you that Kuta Raja caged him inside Pirate Cove, but thanks to " + girl + ", he was able to be set free!"
         print" "
 
         #Delay and display storyline
@@ -1924,7 +1924,7 @@ while x==1:
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "He tells you that Sagith caged him inside Pirate Cove, but thanks to " + girl + " and " + dog + ", he was able to be set free!"
+        print "He tells you that Kuta Raja caged him inside Pirate Cove, but thanks to " + girl + " and " + dog + ", he was able to be set free!"
         print" "
 
         #Delay and display storyline
