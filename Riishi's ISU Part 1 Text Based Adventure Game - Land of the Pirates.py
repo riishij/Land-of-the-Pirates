@@ -90,7 +90,7 @@ while x==1:
     #Delay and display storyline
     import time
     time.sleep(4)
-    print "You realize that he's your arch-nemesis, Sagith Gupta, but's it's too late as the time machine activates!"
+    print "You realize that he's your arch-nemesis, Kuta Raja, but's it's too late as the time machine activates!"
     print""
 
     #Delay and display storyline
@@ -1153,19 +1153,19 @@ while x==1:
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "IT WAS YOUR ARCH-NEMESIS, SAGITH GUPTA!"
+        print "IT WAS YOUR ARCH-NEMESIS, KUTA RAJA!"
         print" "
 
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "Once you realize Sagith is here, you try to join the fight."
+        print "Once you realize Kuta Raja is here, you try to join the fight."
         print" "
 
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "However, Sagith is able to kill " + girl + " in a couple of seconds and soon he notices you!"
+        print "However, Kuta Raja is able to kill " + girl + " in a couple of seconds and soon he notices you!"
         print" "
 
         #Delay and display storyline
@@ -1277,19 +1277,19 @@ while x==1:
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "IT WAS YOUR ARCH-NEMESIS, SAGITH GUPTA!"
+        print "IT WAS YOUR ARCH-NEMESIS, KUTA RAJA!"
         print" "
 
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "You get up and ask Sagith what he is doing here."
+        print "You get up and ask Kuta Raja what he is doing here."
         print" "
 
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "Sagith: I'm finishing you right here and now! ARGHH!"
+        print "Kuta Raja: I'm finishing you right here and now! ARGHH!"
         print" "
 
         #Delay and display storyline
@@ -1533,20 +1533,20 @@ while x==1:
     #Delay and display storyline
     import time
     time.sleep(4)
-    print "The pirates stop their attack and you see your arch-nemesis Sagith Gupta at the top of the cove!"
+    print "The pirates stop their attack and you see your arch-nemesis Kuta Raja at the top of the cove!"
     print" "
 
     #Delay and display storyline
     import time
     time.sleep(4)
-    print name + ", you then have a long conversation with Sagith..."
+    print name + ", you then have a long conversation with Kuta Raja..."
     print" "
 
     #Delay and display storyline
-    #Dialogue between you and Sagith Gupta
+    #Dialogue between you and Kuta Raja
     import time
     time.sleep(3)
-    print "Sagith Gupta: Well, well, well. What do we have here?"
+    print "Kuta Raja: Well, well, well. What do we have here?"
     #Delay and display storyline
     import time
     time.sleep(3)
@@ -1554,7 +1554,7 @@ while x==1:
     #Delay and display storyline
     import time
     time.sleep(3)
-    print "Sagith Gupta: Bro, such harsh words."
+    print "Kuta Raja: Bro, such harsh words."
     #Delay and display storyline
     import time
     time.sleep(3)
@@ -1562,7 +1562,7 @@ while x==1:
     #Delay and display storyline
     import time
     time.sleep(3)
-    print "Sagith Gupta: Ok bro."
+    print "Kuta Raja: Ok bro."
 
     #based on the random option user got in random event #3, user will get a different storyline unique to that option
     if (random3==1 or random3==2):
@@ -1585,7 +1585,7 @@ while x==1:
     #Delay and display storyline
     import time
     time.sleep(3)
-    print name + ", you then continue your conversation with Sagith..."
+    print name + ", you then continue your conversation with Kuta Raja..."
     print" "
     #Delay and display storyline
     import time
@@ -1594,7 +1594,7 @@ while x==1:
     #Delay and display storyline
     import time
     time.sleep(3)
-    print "Sagith Gupta: I'm only here for one reason...and you know why!"
+    print "Kuta Raja: I'm only here for one reason...and you know why!"
     #Delay and display storyline
     import time
     time.sleep(3)
@@ -1602,7 +1602,7 @@ while x==1:
     #Delay and display storyline
     import time
     time.sleep(3)
-    print "Sagith Gupta: Ugh, I came here to finish you off once in for all!"
+    print "Kuta Raja: Ugh, I came here to finish you off once in for all!"
     #Delay and display storyline
     import time
     time.sleep(3)
@@ -1610,7 +1610,7 @@ while x==1:
     #Delay and display storyline
     import time
     time.sleep(3)
-    print "Sagith Gupta: I want to kill you here so that I will be known as the creator of the time machine in 2100!"
+    print "Kuta Raja: I want to kill you here so that I will be known as the creator of the time machine in 2100!"
     #Delay and display storyline
     import time
     time.sleep(3)
@@ -1618,7 +1618,7 @@ while x==1:
     #Delay and display storyline
     import time
     time.sleep(3)
-    print "Sagith Gupta: There's only one way how you can get out of here, but I have it in my hand right now!"
+    print "Kuta Raja: There's only one way how you can get out of here, but I have it in my hand right now!"
     #Delay and display storyline
     import time
     time.sleep(3)
@@ -1630,7 +1630,7 @@ while x==1:
     #Delay and display storyline
     import time
     time.sleep(3)
-    print "Sagith Gupta: Are you ok? You took my idea of creating the time machine and now I will annihilate you with my pirate army!"
+    print "Kuta Raja: Are you ok? You took my idea of creating the time machine and now I will annihilate you with my pirate army!"
 
     #Delay and display storyline
     import time
@@ -1684,13 +1684,13 @@ while x==1:
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "Sagith Gupta: HA HA HA! SUCH A COWARD!"
+        print "Kuta Raja: HA HA HA! SUCH A COWARD!"
         print" "
 
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "Sagith Gupta then fires a bullet at you!"
+        print "Kuta Raja then fires a bullet at you!"
         print" "
 
         #Delay and display storyline
@@ -1741,7 +1741,7 @@ while x==1:
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "However, it's literally impossible for you to get the key as Sagith is at the top of the cove!"
+        print "However, it's literally impossible for you to get the key as Kuta Raja is at the top of the cove!"
         print" "
 
         #Delay and display storyline
@@ -1800,12 +1800,12 @@ while x==1:
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "Finally, all that is remaining is you and Sagith!"
+        print "Finally, all that is remaining is you and Kuta Raja!"
         print" "
 
         import time
         time.sleep(4)
-        print "Sagith Gupta: How in the world did you do that!"
+        print "Kuta Raja: How in the world did you do that!"
         import time
         time.sleep(4)
         print name + ": Shut up coward! Let's fight!"
@@ -1813,13 +1813,13 @@ while x==1:
         #Delay and display storyline
         import time
         time.sleep(4)
-        print "You and Sagith fight for a very long time..."
+        print "You and Kuta Raja fight for a very long time..."
         print" "
 
         #Delay and display storyline
         import time
         time.sleep(3)
-        print "Suddenly, you are on the ground and Sagith is about to shoot his gun towards you!"
+        print "Suddenly, you are on the ground and Kuta Raja is about to shoot his gun towards you!"
         print" "
         import time
         time.sleep(3)
